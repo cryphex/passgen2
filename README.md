@@ -42,7 +42,7 @@ pip install pyinstaller
 pyinstaller --clean --onefile --windowed --name PassGen2 --icon=favicon.ico --add-data "favicon.png;." main.py
 ```
 
-**🔧 Note**: A built exe is already available at [Releases](./releases/).
+**🔧 Note**: A built exe is already available at [Releases](/releases/).
 
 ## 📖 Usage
 
